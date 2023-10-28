@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\bin\Debug\net6.0\Example12_Lab06_213043;.exe
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\bin\Debug\net6.0\Example12_Lab06_213043;.deps.json
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\bin\Debug\net6.0\Example12_Lab06_213043;.runtimeconfig.json
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\bin\Debug\net6.0\Example12_Lab06_213043;.dll
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\bin\Debug\net6.0\Example12_Lab06_213043;.pdb
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.AssemblyInfo.cs
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.dll
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\refint\Example12_Lab06_213043;.dll
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.pdb
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\Example12_Lab06_213043;.genruntimeconfig.cache
+C:\Users\HP\source\repos\Example12_Lab06_213043;\Example12_Lab06_213043;\obj\Debug\net6.0\ref\Example12_Lab06_213043;.dll
